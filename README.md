@@ -6,11 +6,33 @@
 3. Django REST Framework
 
 ## Installation
-After you cloned the repository, you want to create a virtual environment, so you have a clean python installation. You can do this by running the command
+After you cloned the repository, you want to create a virtual environment, so you have a clean python installation.
+You can do this by running the command
+```
+python -m venv env
+```
 
-> python -m venv env
+After this, it is necessary to activate the virtual environment.
+
+You can install all the required dependencies by running
+```
+pip install -r requirements.txt
+```
+## Structure
+The crytocurrency RESTful API, endpoints (URLs):
+1: Generate <b>valid</b> BTC / Ethereum address
+2. List addresses (BTC/ETH)
+3. Retrieve address
 
 
+
+Endpoint |HTTP Method | API Method | Result
+-- | -- |-- |--
+`btc` | GET | READ | Get all movies
+`movies/:id` | GET | READ | Get a single movie
+`movies`| POST | CREATE | Create a new movie
+`movies/:id` | PUT | UPDATE | Update a movie
+`movies/:id` | DELETE | DELETE | Delete a movie
   
  
   
