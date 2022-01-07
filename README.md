@@ -19,10 +19,10 @@ You can install all the required dependencies by running
 pip install -r requirements.txt
 ```
 ## Structure
-The crytocurrency RESTful API, endpoints (URLs):
-  Generate <b>valid</b> BTC / Ethereum address<br>
-  List addresses (BTC/ETH) <br>
-  Retrieve address (BTC/ETH)<br>
+The crytocurrency RESTful API, endpoints (URLs):<br>
+  >1. Generate <b>valid</b> BTC / Ethereum address<br>
+  >2. List addresses (BTC/ETH) <br>
+  >3. Retrieve address (BTC/ETH)<br>
 
 
 
