@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-cm4$z7aqz+i-$utztq09gi5z^u)dysqv@)ah@zy81t+^vz=^oi
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zeply-api.herokuapp.com']
 
 
 # Application definition
