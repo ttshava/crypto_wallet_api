@@ -20,9 +20,9 @@ pip install -r requirements.txt
 ```
 ## Structure
 The crytocurrency RESTful API, endpoints (URLs):
-  Generate <b>valid BTC / Ethereum address
-  List addresses (BTC/ETH)
-  Retrieve address (BTC/ETH)
+  Generate <b>valid</b> BTC / Ethereum address<br>
+  List addresses (BTC/ETH) <br>
+  Retrieve address (BTC/ETH)<br>
 
 
 
