@@ -2,12 +2,17 @@
 
 ## Project Requirements
 1. Python 3.8
-2. Git
+2. Django 3.1
+3. Django REST Framework
 
-## Project Setup
-1 . Firstly clone the project
+## Installation
+After you cloned the repository, you want to create a virtual environment, so you have a clean python installation. You can do this by running the command
 
-  git@github.com:ttshava/crypto_wallet_api.git
+> python -m venv env
+
+
+  
+ 
   
  
 
