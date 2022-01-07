@@ -25,19 +25,19 @@ The crytocurrency RESTful API, endpoints (URLs):<br>
   >3. Retrieve address (BTC/ETH)<br>
 
 
-
+> [http://127.0.0.1:8000/wallet/]
 
 
 Endpoint |HTTP Method | API Method | Result
--- | -- |-- |--| --
-BITCOIN |  |  | |
-`btc-address-list` | GET | READ | [http://127.0.0.1:8000/wallet/btc-address-list/] | Get all bitcoin addresses
-`btc-detail/:id` | GET | READ |[http://127.0.0.1:8000/wallet/btc-detail/] |Get bitcoin address details
-`btc-create`| POST | CREATE |[http://127.0.0.1:8000/wallet/btc-create/]| Generate new bitcoin address
+-- | -- |-- |--
+BITCOIN |  |  | 
+`btc-address-list` | GET | READ | Get all bitcoin addresses
+`btc-detail/:id` | GET | READ |Get bitcoin address details
+`btc-create`| POST | CREATE | Generate new bitcoin address
 ETHEREUM |  |  |
-`eth-address-list` | GET | READ | [http://127.0.0.1:8000/wallet/eth-address-list/]| Get all eth addresses
-`eth-detail/:id` | GET | READ |[http://127.0.0.1:8000/wallet/eth-detail/]| Get eth address details
-`eth-create`| POST | CREATE |[http://127.0.0.1:8000/wallet/eth-create/] |Generate new eth address
+`eth-address-list` | GET | READ |  Get all eth addresses
+`eth-detail/:id` | GET | READ | Get eth address details
+`eth-create`| POST | CREATE |Generate new eth address
 
 
   
