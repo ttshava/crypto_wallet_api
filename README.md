@@ -40,6 +40,19 @@ ETHEREUM |  |  |
 `eth-create/`| POST | CREATE |Generate new eth address
 
 
+## Use & Testing Bitcoin addresses in blockchain
+
+![Btc Addresses Generated](https://user-images.githubusercontent.com/7104155/148570677-3313cffe-9d49-47df-bc31-8b431c58ea27.PNG)
+
+
+BTC Address : 14riWFbcN8pZP8o1Z78mWRDwsQT5fzCaTr
+
+Result
+
+https://www.blockchain.com/btc/address/14riWFbcN8pZP8o1Z78mWRDwsQT5fzCaTr
+
+Use this link to test https://www.blockchain.com/btc-testnet/address/2N3oefVeg6stiTb5Kh3ozCSkaqmx91FDbsm
+
   
  
   
