@@ -24,20 +24,20 @@ The crytocurrency RESTful API, endpoints (URLs):<br>
   >2. List addresses (BTC/ETH) <br>
   >3. Retrieve address (BTC/ETH)<br>
 
-
-> [http://127.0.0.1:8000/wallet/]
-
+```
+http://127.0.0.1:8000/wallet/
+```
 
 Endpoint |HTTP Method | API Method | Result
 -- | -- |-- |--
 BITCOIN |  |  | 
-`btc-address-list` | GET | READ | Get all bitcoin addresses
+`btc-address-list/` | GET | READ | Get all bitcoin addresses
 `btc-detail/:id` | GET | READ |Get bitcoin address details
-`btc-create`| POST | CREATE | Generate new bitcoin address
+`btc-create/`| POST | CREATE | Generate new bitcoin address
 ETHEREUM |  |  |
-`eth-address-list` | GET | READ |  Get all eth addresses
+`eth-address-list/` | GET | READ |  Get all eth addresses
 `eth-detail/:id` | GET | READ | Get eth address details
-`eth-create`| POST | CREATE |Generate new eth address
+`eth-create/`| POST | CREATE |Generate new eth address
 
 
   
