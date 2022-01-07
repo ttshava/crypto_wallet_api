@@ -30,7 +30,7 @@ The crytocurrency RESTful API, endpoints (URLs):<br>
 
 Endpoint |HTTP Method | API Method | Result
 -- | -- |-- |--| --
-BITCOIN |  |  |
+BITCOIN |  |  | |
 `btc-address-list` | GET | READ | [http://127.0.0.1:8000/wallet/btc-address-list/] | Get all bitcoin addresses
 `btc-detail/:id` | GET | READ |[http://127.0.0.1:8000/wallet/btc-detail/] |Get bitcoin address details
 `btc-create`| POST | CREATE |[http://127.0.0.1:8000/wallet/btc-create/]| Generate new bitcoin address
