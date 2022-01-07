@@ -1,2 +1,2 @@
-## Simple Django REST API cryptocurrency wallet
+# Simple Django REST API cryptocurrency wallet
 
