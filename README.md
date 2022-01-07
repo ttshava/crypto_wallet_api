@@ -1,16 +1,5 @@
 # Simple Django REST API Cryptocurrency wallet
-Documentation <br>
-REST API  creates valid bitcoin and ethereum addresses. 
-
-##Bitcoin<br>
-pip install bitcoin<br>
-Pybitcointools, Python library for Bitcoin signatures and transactions<br>
-The library create private & public keys<br>
-<br><br>
-##Ethereum<br>
-pip install web3<br>
-Web3.py is a Python library for interacting with Ethereum.<br>
-It’s commonly found in decentralized apps (dapps) to help with sending transactions, interacting with smart contracts, reading block data, and a variety of other use cases
+REST API for generating valid cryptocurrency addresses BTC and ETH.
 
 
 ## Project Requirements
